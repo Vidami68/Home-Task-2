@@ -1,0 +1,4 @@
+Car ID: 1, Make: Toyota, Model: Camry, Year: 2010, Color: Black, Price: $8000.0, Registration: ABC123
+
+Car ID: 3, Make: Toyota, Model: Corolla, Year: 2005, Color: Blue, Price: $5000.0, Registration: DEF789
+

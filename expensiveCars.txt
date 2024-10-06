@@ -1,0 +1,2 @@
+Car ID: 2, Make: BMW, Model: X5, Year: 2015, Color: White, Price: $15000.0, Registration: XYZ456
+

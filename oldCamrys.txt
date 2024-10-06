@@ -1,0 +1,2 @@
+Car ID: 1, Make: Toyota, Model: Camry, Year: 2010, Color: Black, Price: $8000.0, Registration: ABC123
+
